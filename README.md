@@ -1,10 +1,6 @@
 # Devoir-a-rendre
 
 
-
-
-
-
 main 1 : Gestionnaire de Contacts en Java
 
 Ce projet est une application Java pour gérer une liste de contacts :
